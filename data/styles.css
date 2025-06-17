@@ -73,6 +73,13 @@
 ._段落 {
   text-align:left;
 }
+._文本链接 {
+  color:#0000FF;
+}
+.text_link_mouse_over {
+}
+.text_link_mouse_down {
+}
 .line {
 }
 ._表单提示 {
@@ -92,6 +99,10 @@
   color:#000000;
   text-align:left;
 }
+.text_area {
+  color:#000000;
+  text-align:left;
+}
 .form_hint {
   color:#999999;
 }
@@ -100,8 +111,13 @@
 .checkbox {
   text-align:left;
 }
+.radio_button {
+  text-align:left;
+}
 .tree_node {
   text-align:left;
+}
+.table_cell {
 }
 .droplist {
   color:#000000;
